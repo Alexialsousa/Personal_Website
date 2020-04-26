@@ -184,3 +184,11 @@ a:hover, a:focus, a:active {
 .size {
   font-size: 30%;
 }
+.row{
+  clear: both;
+}
+
+.column {
+  width: 40%;
+  float: left;
+}
